@@ -38,9 +38,7 @@ function getTotalSupply() {
  console.log("\n" + NFTs.length);
 }
 // call your functions below this line
-mintNFT("Freen", "Black", "Hoodie", "Gold Chain");
-mintNFT("Becky", "Gray", "Sleeves", "Gold Chain");
-mintNFT("Nam", "Blue", "Crop Top", "Gold Chain");
-mintNFT("Heng", "Brown", "Polo", "Gold Chain");
+mintNFT("Eunice", "Black", "Hoodie", "Gold Chain");
+mintNFT("Mary", "Gray", "Sleeves", "Gold Chain");
 listNFTs();
 getTotalSupply();
